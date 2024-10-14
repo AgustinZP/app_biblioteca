@@ -30,7 +30,7 @@ Este proyecto es una aplicación de escritorio realizada en Python que simula un
 
 ## Instalación
 
-1. Descarga el archivo distribuible desde [aquí](https://github.com/AgustinZP/app_biblioteca/blob/main/dist/AppBiblioteca.exe).
+1. Descarga el archivo distribuible desde [aquí](https://github.com/AgustinZP/app_biblioteca/blob/main/dist).
 2. Ejecuta el instalador y sigue las instrucciones en pantalla.
 3. Una vez instalado, abre la aplicación y comienza a gestionar tus libros.
 
